@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/programs.shapironegotiations.com.ico",
     "slug": "shapiro-negotiations-institute-programs",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "6.03%",
+    "uptimeDay": "6.03%",
+    "uptimeWeek": "6.03%",
+    "uptimeMonth": "6.03%",
+    "uptimeYear": "6.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-01": 0
+    }
   }
 ]
