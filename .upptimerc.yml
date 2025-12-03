@@ -6,6 +6,9 @@ sites:
   - name: Shapiro Negotiations Institute
     url: https://www.shapironegotiations.com/
 
+  - name: Shapiro Negotiations Institute | Stage
+    url: https://stage.shapironegotiations.com/
+
   - name: Shapiro Negotiations Institute - Programs
     url: http://programs.shapironegotiations.com/
 
