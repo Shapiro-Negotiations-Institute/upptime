@@ -22,18 +22,20 @@
     "url": "https://stage.shapironegotiations.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stage.shapironegotiations.com.ico",
     "slug": "shapiro-negotiations-institute-stage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10050,
-    "timeDay": 19732,
-    "timeWeek": 10050,
-    "timeMonth": 10050,
-    "timeYear": 10050,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
+    "time": 6802,
+    "timeDay": 10019,
+    "timeWeek": 6802,
+    "timeMonth": 6802,
+    "timeYear": 6802,
+    "dailyMinutesDown": {
+      "2025-12-04": 22
+    }
   },
   {
     "name": "Shapiro Negotiations Institute - Programs",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 892,
+      "2025-12-04": 914,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 275
