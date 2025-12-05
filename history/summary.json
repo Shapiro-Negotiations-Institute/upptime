@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 483,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "time": 611,
+    "timeDay": 758,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.shapironegotiations.com.ico",
     "slug": "shapiro-negotiations-institute-stage",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.98%",
     "uptimeDay": "98.46%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
-    "time": 6802,
-    "timeDay": 10019,
-    "timeWeek": 6802,
-    "timeMonth": 6802,
-    "timeYear": 6802,
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 10084,
+    "timeDay": 10118,
+    "timeWeek": 10084,
+    "timeMonth": 10084,
+    "timeYear": 10084,
     "dailyMinutesDown": {
       "2025-12-04": 22
     }
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 914,
+      "2025-12-05": 123,
+      "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 275
