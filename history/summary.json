@@ -4,10 +4,10 @@
     "url": "https://www.shapironegotiations.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shapironegotiations.com.ico",
     "slug": "shapiro-negotiations-institute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 763,
@@ -15,7 +15,9 @@
     "timeWeek": 891,
     "timeMonth": 914,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-06": 1
+    }
   },
   {
     "name": "Shapiro Negotiations Institute | Stage",
