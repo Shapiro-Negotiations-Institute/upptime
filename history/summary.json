@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 753,
-    "timeDay": 792,
-    "timeWeek": 669,
-    "timeMonth": 685,
-    "timeYear": 753,
+    "time": 751,
+    "timeDay": 448,
+    "timeWeek": 660,
+    "timeMonth": 678,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2026-02-06": 41
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.shapironegotiations.com.ico",
     "slug": "shapiro-negotiations-institute-stage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 575,
-    "timeWeek": 314,
+    "uptime": "99.87%",
+    "uptimeDay": "77.45%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.87%",
+    "time": 601,
+    "timeDay": 483,
+    "timeWeek": 341,
     "timeMonth": 284,
-    "timeYear": 603,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2026-05-28": 0
+      "2026-05-29": 254,
+      "2026-05-28": 71
     }
   },
   {
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 511,
-    "timeWeek": 345,
-    "timeMonth": 327,
-    "timeYear": 381,
+    "time": 380,
+    "timeDay": 163,
+    "timeWeek": 349,
+    "timeMonth": 323,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 1027,
-    "timeWeek": 838,
-    "timeMonth": 842,
-    "timeYear": 475,
+    "time": 476,
+    "timeDay": 559,
+    "timeWeek": 837,
+    "timeMonth": 829,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   }
 ]
