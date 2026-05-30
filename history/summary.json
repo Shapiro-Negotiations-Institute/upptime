@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 751,
-    "timeDay": 448,
-    "timeWeek": 660,
-    "timeMonth": 678,
-    "timeYear": 751,
+    "time": 750,
+    "timeDay": 575,
+    "timeWeek": 663,
+    "timeMonth": 673,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2026-02-06": 41
     }
@@ -26,15 +26,15 @@
     "slug": "shapiro-negotiations-institute-stage",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "75.91%",
+    "uptimeDay": "97.42%",
     "uptimeWeek": "96.56%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.86%",
-    "time": 667,
-    "timeDay": 4538,
-    "timeWeek": 1708,
-    "timeMonth": 671,
-    "timeYear": 667,
+    "time": 665,
+    "timeDay": 6413,
+    "timeWeek": 1711,
+    "timeMonth": 668,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2026-05-29": 276,
       "2026-05-28": 71
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 380,
-    "timeDay": 163,
-    "timeWeek": 349,
-    "timeMonth": 323,
+    "timeDay": 385,
+    "timeWeek": 383,
+    "timeMonth": 321,
     "timeYear": 380,
     "dailyMinutesDown": {}
   },
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 559,
-    "timeWeek": 837,
-    "timeMonth": 829,
-    "timeYear": 476,
+    "time": 478,
+    "timeDay": 775,
+    "timeWeek": 865,
+    "timeMonth": 821,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   }
 ]
